@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-qvgcn2.indcuan.sbs/sitemap.xml
